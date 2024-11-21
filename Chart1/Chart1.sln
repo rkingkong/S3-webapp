@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chart1", "Chart1\Chart1.pyproj", "{E43CE8F6-69C2-48FD-86A0-F312A6BF000B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43CE8F6-69C2-48FD-86A0-F312A6BF000B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43CE8F6-69C2-48FD-86A0-F312A6BF000B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD3269D6-944E-4B79-8011-AE1E5169519E}
+	EndGlobalSection
+EndGlobal
